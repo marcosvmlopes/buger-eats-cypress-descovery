@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "sabbath",
+        "cpf": "00000362589",
+        "email": "teste@teste.com",
+        "whatsapp": "31999999999",
+        "address": {
+            "postalcode": "32685036",
+            "street": "Rua Itaú",
+            "number": "895",
+            "details": "Casa de Esquina",
+            "district": "Amazonas",
+            "city_state": "Betim/MG"
+        },
+        "delivery_method": "Van/Carro",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv":{
+        "name": "carlos",
+        "cpf": "00000362AAA",
+        "email": "teste@teste.com",
+        "whatsapp": "31999999999",
+        "address": {
+            "postalcode": "32685036",
+            "street": "Rua Itaú",
+            "number": "895",
+            "details": "Casa de Esquina",
+            "district": "Amazonas",
+            "city_state": "Betim/MG"
+        },
+        "delivery_method": "Van/Carro",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "leandro",
+        "cpf": "00000362589",
+        "email": "teste.teste.com",
+        "whatsapp": "31999999999",
+        "address": {
+            "postalcode": "32685036",
+            "street": "Rua Itaú",
+            "number": "895",
+            "details": "Casa de Esquina",
+            "district": "Amazonas",
+            "city_state": "Betim/MG"
+        },
+        "delivery_method": "Van/Carro",
+        "cnh": "cnh-digital.jpg"
+    }
+}
